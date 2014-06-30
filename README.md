@@ -1,8 +1,4 @@
 grinmom
 =======
-test hello
-
-sdfdsfsdfsdfs
-
-sdf
+Welcome to GrinMom!!
 
